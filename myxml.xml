@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<catalogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="myxml.xsd">
+    <produit reference="GSEA6F">
+        <intitule>Stylo</intitule>
+        <prix>2.00</prix>
+    </produit>
+    <produit reference="MJIZ8F">
+        <intitule>T-Shirt</intitule>
+        <prix>8.00</prix>
+    </produit>
+    <produit reference="IHRC24">
+        <intitule>Sweat</intitule>
+        <prix>10.00</prix>
+    </produit>
+</catalogue>

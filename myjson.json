@@ -1,0 +1,21 @@
+{
+	"catalogue": {
+		"produit": [
+			{
+				"intitule": "Stylo",
+				"prix": "2.00",
+				"_reference": "GSEA6F"
+			},
+			{
+				"intitule": "T-Shirt",
+				"prix": "8.00",
+				"_reference": "MJIZ8F"
+			},
+			{
+				"intitule": "Sweat",
+				"prix": "10.00",
+				"_reference": "IHRC24"
+			}
+		]
+	}
+}
